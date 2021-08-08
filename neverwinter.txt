@@ -1,1 +1,1 @@
-level3.nwhttppatch.crypticstudios.com
+*.nwhttppatch.crypticstudios.com
