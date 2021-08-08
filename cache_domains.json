@@ -97,6 +97,11 @@
 			"description": "CDN for steam platform",
 			"domain_files": ["steam.txt"]
 		},
+				{
+			"name": "sto",
+			"description": "CDN for Star Trek Online",
+			"domain_files": ["sto.txt"]
+		},
 		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
