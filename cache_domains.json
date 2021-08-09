@@ -118,6 +118,11 @@
 			"domain_files": ["teso.txt"]
 		},
 		{
+			"name": "ubuntu",
+			"description": "Ubuntu archive",
+			"domain_files": ["ubuntu.txt"]
+		},
+		{
 			"name": "warframe",
 			"description": "CDN for Warframe",
 			"domain_files": ["warframe.txt"]
