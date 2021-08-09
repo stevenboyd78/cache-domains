@@ -1,0 +1,9 @@
+controllertracker1.crypticstudios.com
+controllertracker2.crypticstudios.com
+controllertracker3.crypticstudios.com
+controllertracker4.crypticstudios.com
+controllertracker5.crypticstudios.com
+controllertracker6.crypticstudios.com
+controllertracker7.crypticstudios.com
+controllertracker8.crypticstudios.com
+controllertracker9.crypticstudios.com
