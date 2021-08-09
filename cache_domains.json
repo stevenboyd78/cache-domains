@@ -21,6 +21,11 @@
 			"domain_files": ["cityofheroes.txt"]
 		},
 		{
+			"name": "crypticstudios",
+			"description": "Cryptic Studios Launchers",
+			"domain_files": ["crypticstudios.txt"]
+		},
+		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
