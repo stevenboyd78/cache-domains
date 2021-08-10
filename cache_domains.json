@@ -73,6 +73,11 @@
 			"domain_files": ["pathofexile.txt"]
 		},
 		{
+			"name": "raspberrypi",
+			"description": "Raspberry Pi",
+			"domain_files": ["raspberrypi.txt"]
+		},
+		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
 			"domain_files": ["renegadex.txt"]
